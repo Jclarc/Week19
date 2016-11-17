@@ -1,0 +1,66 @@
+body{
+    background-color:#C7C7C7 ;
+}
+.jumbotron{
+    background-color: #383838;
+    color: #C0FF00;
+}
+.navbar{
+    background-color: #383838;
+    color: #C0FF00;
+}
+.navbar-header{
+    background-color: #383838;
+    color: #C0FF00;
+}
+.navbar-default .navbar-brand{
+    color: #C0FF00;
+}
+.navbar-default .navbar-nav>li>a{
+    color: #C0FF00;
+}
+a{
+    color: #C0FF00;
+}
+.panel-heading{
+    background-color: #383838;
+    color: #C0FF00;
+}
+span{
+    background-color: #383838;
+    color: #C0FF00;
+}
+.panel-primary>.panel-heading{
+    background-color: #383838;
+    color: #C0FF00;
+    border-color:#C0FF00;
+}
+.panel{
+    background-color: #383838;
+    color: #C0FF00;
+}
+.panel-title{
+    background-color: #383838;
+    color: #C0FF00;
+}
+.panel.panel-primary{
+    background-color: #383838;
+    color: #C0FF00;
+}
+li{
+    background-color: #383838;
+    color: #C0FF00;
+}
+.list-group-item{
+    background-color: #383838;
+    color: #C0FF00;
+}
+.btn-danger:hover{
+    color: #C0FF00;
+}
+.btn-primary{
+    color: #C0FF00;
+}
+.btn-default{
+    background-color: #383838;
+}
